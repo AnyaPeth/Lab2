@@ -11,5 +11,5 @@ Activity 3: https://github.com/AnyaPeth/Lab2Fork-102
 
 Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/125
 
-Activity 5: 
+Activity 5: Seen in hello-world repo
             
